@@ -3,3 +3,5 @@ This is jjtech sample file
 
 GIT REVERT CHANGE 1
 
+This is comparism lecture
+This is comparism lecture , change in file 2
