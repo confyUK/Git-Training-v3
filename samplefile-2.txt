@@ -4,5 +4,3 @@ This is jjtech sample file-2
 
 
 GIT REVERT 2
-git revert 2 edited
-
